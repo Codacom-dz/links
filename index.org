@@ -1,0 +1,170 @@
+#+TITLE: Sonia Djahra
+#+TAGS: @scala @elixir @js @java @aws @akka @fp
+#+SETUPFILE: include/html.conf.org
+
+#+INCLUDE: include/html-header.org
+* DONE Contact
+  CLOSED: [2017-04-03 Mon 09:45]
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: contact
+  :END:
+** photo
+   :PROPERTIES:
+   :HTML_CONTAINER_CLASS: photo
+  :END:
+** [[mailto:piotr@codearsonist.com][piotr@codearsonist.com]]
+   :PROPERTIES:
+  :HTML_CONTAINER_CLASS: email
+  :END:
+** +48 508 627 707
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: phone
+  :END:
+** [[https://codearsonist.com][codearsonist.com]]
+   :PROPERTIES:
+  :HTML_CONTAINER_CLASS: web
+  :END:
+** [[https://github.com/peel][github.com/peel]]
+   :PROPERTIES:
+  :HTML_CONTAINER_CLASS: github
+  :END:
+* Experience
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: experience
+  :END:
+** DONE   Sales Manager chez Codacom      :scala:js:docker:aws:
+   CLOSED: [2018-01-10 Wed 13:54]
+*** Mai-2016 Mars-2018
+Je Participe à la définition de la politique commercial de l'entreprise, à partir de la stratégie de l'entreprise et fixer des objectifs et les axes prioritaires tout en dirigeant et accompagnant l'équipe commercial.
+ Promouvoir l'image et la notoriété de l'entreprise, participer à la négociation sur certains comptes stratégiques et etre attentif aux évolutions du marché et aux offres de la concurrence afin d'adapter en permanence les offres de l'entreprise.
+** DONE   VimpelCom (Djezzy)                           :scala:js:docker:aws:
+   CLOSED: [2018-01-10 Wed 13:54]
+*** Oct 2009 - Apr 2016
+
+Telecom Account Management Senior Advisor : Corporate le service  commercial et marketing  offres et promotions ,la  gestion  portefeuille client  entreprise et  responsable de leurs développement, avoir  acquis  une  formation prepaid  djezzy carte  ,et poste paid  abonnement corporate ; installation  de services, les  soucis techniques , le prorata des factures plus formation  coorporigth  et agent de  recouvrement, formation technique de vent plus formation télémarketing « commercial »  Démos  avec attestation.
+** DONE   Yoplait Jugurta                  :scala:elixir:js:docker:aws:akka:
+   CLOSED: [2017-04-12 Wed 09:42]
+*** Jan 2006 - Sep 2007
+Agent de réception et logistique chez Yoplait Jugurta societe agroalimentaire
+
+* Education
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: education
+  :END:
+** DONE LYCEE HASSIBA KOUBA
+CLOSED: [2018-09-21 ven. 15:03]
+:PROPERTIES:
+:CREATED:  <2018-09-21 ven. 15:03>
+:END:
+*** 2003
+ BAC série langue étrangères LYCEE HASSIBA KOUBA  .
+** DONE Université
+*** 2003-2006
+Licence gestion en informatique: Université d’Alger faculté 
+Des sciences de Gestion et Economie.
+** DONE ECOLE DE FORMATION Génisoft
+CLOSED: [2018-09-21 ven. 15:03]
+:PROPERTIES:
+:CREATED:  <2018-09-21 ven. 15:03>
+:END:
+*** 2006
+formation Delphi option 7plus  bureautique  avec certificat et attestation
+** DONE Attestation en bureautique
+CLOSED: [2018-09-21 ven. 15:06]
+:PROPERTIES:
+:CREATED:  <2018-09-21 ven. 15:06>
+:END:
+*** 2006
+Obtention d'une Attestation en bureautique
+** DONE Formation Démos Marketing (Djezzy)
+CLOSED: [2018-09-21 ven. 15:08]
+:PROPERTIES:
+:CREATED:  <2018-09-21 ven. 15:08>
+:END:
+*** 2014
+Télémarketing gestion relation client et portefeuille
+** DONE Formation Techniques de ventes(Djezzy)
+CLOSED: [2018-09-21 ven. 15:09]
+:PROPERTIES:
+:CREATED:  <2018-09-21 ven. 15:09>
+:END:
+*** 2014
+La procédure de vente finalisé  et le suivi du Rendez-Vous client 
+* Skills
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: skills
+  :END:
+** DONE Programming
+   CLOSED: [2017-04-03 Mon 09:40]
+*** Scala 
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** Elixir
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** JS
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-60
+  :END:
+*** Java
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** Ruby
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-40
+  :END:
+*** Bash
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+** TODO Tools
+*** Git
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** Docker
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** Ansible
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-80
+  :END:
+*** Emacs
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-60
+  :END:
+*** Amazon WS
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-40
+  :END:
+*** Concourse
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-40
+  :END:
+*** Nix/NixOS
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: percent-40
+  :END:
+* DONE Languages
+  CLOSED: [2017-04-03 Mon 11:11]
+  :PROPERTIES:
+  :HTML_CONTAINER_CLASS: languages
+  :END:
+*** English
+    :PROPERTIES:
+    :HTML_CONTAINER_CLASS: percent-100
+    :END:
+*** German
+    :PROPERTIES:
+    :HTML_CONTAINER_CLASS: percent-40
+    :END:
+*** Japanese
+    :PROPERTIES:
+    :HTML_CONTAINER_CLASS: percent-20
+    :END:
+
+#+INCLUDE: include/pl.org :minlevel 1
